@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:6, Panamericana Sur
+https://live.smartechlatam.online/claro/panamericana/index.m3u8
+#EXTINF:6, Javier Prado
+https://live.smartechlatam.online/claro/javierprado/index.m3u8
+#EXTINF:6, Angamos
+https://live.smartechlatam.online/claro/angamos/index.m3u8
+#EXTINF:6, Paseo de la Republica
+https://live.smartechlatam.online/claro/paseodelarepublica/index.m3u8
+#EXTINF:5, Prolongacion Tacna
+https://live.smartechlatam.online/claro/prolongaciontacna/index.m3u8
+#EXTINF:6, Pershing
+https://live.smartechlatam.online/claro/avfaustinocarrion/index.m3u8
+#EXTINF:6, La Marina
+https://live.smartechlatam.online/claro/lamarina/index.m3u8
+#EXTINF:6, Brasil con Javier Prado
+https://live.smartechlatam.online/claro/brasilconjavierprado/index.m3u8
+#EXTINF:6, Ejercito con Salaverry
+https://live.smartechlatam.online/claro/ejercitoconsalaverry/index.m3u8
+#EXTINF:6, Ejercito
+https://live.smartechlatam.online/claro/ejercito/index.m3u8
+#EXTINF:6, Republica de Panama
+https://live.smartechlatam.online/claro/republicapanama/index.m3u8
